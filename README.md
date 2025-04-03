@@ -38,3 +38,14 @@ This is the official website developed for **Janki Raghunath R&D Laboratory (JRL
 
 ## 🔗 Live Demo  
 [**View Live Website**](https://jrltestings.com/)
+
+## 👨‍💻 Developed & Maintained By  
+
+**[Aditya Raj]** – Web Developer & Designer
+
+📧 Email: aditya055raj@gmail.com  
+
+🔗 Portfolio: [Aditya-portfolio.com](https://adityaraj19.netlify.app/) 
+
+🔗 LinkedIn: [linkedin.com/in/adityaraj](https://www.linkedin.com/in/aditya-raj-7a8a66276)
+
