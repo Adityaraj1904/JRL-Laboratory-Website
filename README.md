@@ -6,10 +6,8 @@ This is the official website developed for **Janki Raghunath R&D Laboratory (JRL
 ## 🔹 Key Features  
 ✅ **Fully Responsive Design** – Seamlessly adapts to all devices (mobile, tablet, desktop).  
 ✅ **Modern UI/UX Enhancements** – Smooth animations, hover effects, and engaging transitions.  
-✅ **Dynamic Hero Section** – A visually appealing slider with a stylish dark shadow effect.  
-✅ **Advanced Service Section** – Transparent service cards with a unique blue animated border effect.  
-✅ **Team Member Profiles** – Responsive profile cards showcasing the JRL team.  
-✅ **Interactive Navbar** – Custom hover effects for an enhanced browsing experience.  
+✅ **Dynamic Hero Section** – A visually appealing slider with a stylish dark shadow effect.    
+✅ **Team Member Profiles** – Responsive profile cards showcasing the JRL team.    
 ✅ **Responsive Image Gallery** – A well-structured, fully adaptive gallery.  
 ✅ **Live Chat Integration** – Implemented using **Tawk.to** for real-time communication.  
 
